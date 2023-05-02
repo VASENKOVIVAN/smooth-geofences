@@ -2,7 +2,7 @@
 VALUE_ROUNDED = 0.5
 
 # Детализация скругления угла, количество точек (от 1)
-VALUE_ROUND_PARAMETR = 5
+VALUE_ROUND_PARAMETR = 16
 
 # Предполагается, что массив точек состоит из:
 # [[lat, lon], [lat, lon], [lat, lon]]
