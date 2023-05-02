@@ -92,6 +92,7 @@
 
 ## 1 шаг
 `app.py` (entrypoint)
+
 В массив arrData вставляем координаты
 ## 2 шаг
 В `config.py` меняем параметры `VALUE_ROUNDED`, `VALUE_ROUND_PARAMETR`, `REVERSE_LAT_LON`
