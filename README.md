@@ -142,7 +142,7 @@
 
 `GEOFENSE_NAME: str` (название геозоны)
 
-`GEOFENSE_COLOR: str` (цвет геозоны `#3cc1d4`)
+`GEOFENSE_COLOR: str` (цвет геозоны `#3CC1D4`)
 
 `GEOFENSE_STYLE_FILLOPACITY: float` (прозрачность заливки [0; 1])
 
