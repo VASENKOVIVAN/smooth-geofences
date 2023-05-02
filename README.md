@@ -115,11 +115,11 @@
 ## 2 шаг
 В `config.py` меняем параметры `VALUE_ROUNDED`, `VALUE_ROUND_PARAMETR`, `REVERSE_LAT_LON`
 
-Предполагается, что массив точек состоит из: `[[lat, lon], [lat, lon], [lat, lon]]`
+>Предполагается, что массив точек состоит из: `[[lat, lon], [lat, lon], [lat, lon]]`
 
-Если по какой то причине исходный массив реверсивен: `[[lon, lat], [lon, lat], [lon, lat]]`
+>Если по какой то причине исходный массив реверсивен: `[[lon, lat], [lon, lat], [lon, lat]]`
 
-То установите `REVERSE_LAT_LON=True`
+>То установите `REVERSE_LAT_LON=True`
 
 ## 3 шаг
 Установите переменную окружения `TOKEN_API` (API key Rightech)
