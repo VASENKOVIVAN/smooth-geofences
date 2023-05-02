@@ -87,6 +87,9 @@
 
 
 # Описание проекта:
+
+`pip install -r requirements.txt`
+
 ## 1 шаг
 `app.py` (entrypoint)
 В массив arrData вставляем координаты
@@ -102,6 +105,9 @@
 `python app.py` - выведет в консоль массив координат преобразованной геозоны
 
 # Описание модуля для Rightech:
+
+`pip install -r requirements.txt`
+
 ## 1 шаг
 `app_rightech.py` (entrypoint)
 
