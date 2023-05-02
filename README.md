@@ -101,7 +101,7 @@
 
 `python app.py` - выведет в консоль массив координат преобразованной геозоны
 
-# Описание модуля для RighTech:
+# Описание модуля для Rightech:
 ## 1 шаг
 `app_rightech.py` (entrypoint)
 
@@ -115,7 +115,7 @@
 То установите `REVERSE_LAT_LON=True`
 
 ## 3 шаг
-Установите переменную окружения `TOKEN_API` (API key RighTech)
+Установите переменную окружения `TOKEN_API` (API key Rightech)
 
 ## 4 шаг
 В `config_get.py` установите `ID_GEOFENCE` id геозоны, которую требуется скруглить
