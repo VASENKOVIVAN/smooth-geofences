@@ -137,9 +137,7 @@
 
 > Если `False` - применит к создаваемой геозоне параметры определенные ниже
 
-GEOFENSE_NAME_POSTFIX: str
-
-Если `DEFAUL_GEOFENSE_PARAMS = False`, то к названию геозоны добавим постфикс, например - `' копия'`
+Если `DEFAUL_GEOFENSE_PARAMS = False`, то к названию геозоны добавим `GEOFENSE_NAME_POSTFIX: str` постфикс, например - `' копия'`
 
 `GEOFENSE_NAME: str` (название геозоны)
 
