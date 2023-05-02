@@ -151,3 +151,5 @@ GEOFENSE_NAME_POSTFIX: str
 `GEOFENSE_STYLE_WEIGHT: int` (толщина рамки)
 
 `GEOFENSE_SHAPE_TYPE = "polygon"`
+
+Затем, `python app_rightech.py` - получит данные о геозоне, сделает новую скругленную геозону, и отправит ее на платформу Rightech
